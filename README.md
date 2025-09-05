@@ -32,7 +32,7 @@ cd..
 catkin make
 ```
 #### Download dataset 
-Download simulation maps from [Google cloud](https://drive.google.com/drive/folders/1tuoVo8PL1m2cmmufkHpu4e7hK36WhJs3?usp=drive_link), create the folder `MARSIM/map_generator/resource` if it doesn't exist, and move the downloaded maps to this folder.
+Download simulation maps from *Google cloud address* provided by [EPIC](https://github.com/Robotics-STAR-Lab/EPIC), create the folder `MARSIM/map_generator/resource` if it doesn't exist, and move the downloaded maps to this folder.
 
 ```bash
 mkdir -p MARSIM/map_generator/resource
@@ -51,6 +51,6 @@ Our simulation environment is developed based on the GPU version of MARSIM. So i
 ## 🤓 Acknowledgments
 
 We would like to express our gratitude to the following projects, which have provided significant support and inspiration for our work:
-- [EPIC](https://github.com/HKUST-Aerial-Robotics/FUEL): An efficient framework for fast UAV exploration from which is our baseline.
+- [EPIC](https://github.com/Robotics-STAR-Lab/EPIC): An efficient framework for fast UAV exploration from which is our baseline.
 - [MARSIM](https://github.com/hku-mars/MARSIM): A lightweight point-realistic simulator for LiDAR-based UAVs upon which our simulator is built.
 - [FALCON](https://github.com/HKUST-Aerial-Robotics/FALCON): An efficient framework for fast UAV exploration, from which we evaluate SOP in large-scale scenarios.
