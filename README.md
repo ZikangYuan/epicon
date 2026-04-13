@@ -1,11 +1,11 @@
 <div align = "center">
   <h1>
-    LiDAR-based Aerial Exploration in Large-Scale Point Cloud Maps using Coverage Path Guidance
+    Aerial Exploration on Point Cloud Maps via Coverage Path Guidance
   </h1>
 </div>
 <div align = "center">
   <h2>
-    A LiDAR-based Aerial Exploration Package for Large-Scale Scenarios
+    A LiDAR-based Aerial Exploration Package for Avoiding Revisitations
   </h2>
 </div>
 <div align="center">
@@ -43,7 +43,7 @@ mv /path/to/downloaded/maps/*.pcd MARSIM/map_generator/resource/
 ```bash
 source /devel/setup.bash && roslaunch epic_planner garage.launch
 ```
-You can replace `garage` with other maps. Two test scenarios are evaluated in our paper: `garage` and `cave`.
+You can replace `garage` with other maps. Three test scenarios are evaluated in our paper: `cave`, `garage` and `city`.
 
 Our simulation environment is developed based on the GPU version of MARSIM. So if you don't have a GPU, you may need to make some necessary modifications to the simulator.
 
