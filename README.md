@@ -32,7 +32,7 @@ cd..
 catkin make
 ```
 #### Download dataset 
-Download simulation maps from *Google cloud address* provided by [EPIC](https://github.com/Robotics-STAR-Lab/EPIC), create the folder `MARSIM/map_generator/resource` if it doesn't exist, and move the downloaded maps to this folder.
+Download simulation maps from *Google cloud address* provided by [EPIC](https://github.com/Robotics-STAR-Lab/EPIC) and [EDEN](https://github.com/NKU-MobFly-Robotics/EDEN), create the folder `MARSIM/map_generator/resource` if it doesn't exist, and move the downloaded maps to this folder.
 
 ```bash
 mkdir -p MARSIM/map_generator/resource
