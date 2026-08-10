@@ -23,7 +23,7 @@
   <p>
     <sup>†</sup>Corresponding Author
   </p>
-  <a href='https://www.youtube.com/watch?v=-VXHNZr-xjU&t=2s'><img alt="Video" src="https://img.shields.io/badge/YouTube-Video-red"/></a>
+  <a href='https://www.youtube.com/watch?v=-VXHNZr-xjU'><img alt="Video" src="https://img.shields.io/badge/YouTube-Video-red"/></a>
 </div>
 
 ## 💡 News
@@ -38,7 +38,7 @@ We sincerely thank Prof. [**Boyu Zhou**](https://scholar.google.com.hk/citations
 
 **EPICON** is a LiDAR-based aerial exploration package for avoiding revisitations on point cloud maps. Extensive simulation and real-world experiments validate that our framework effectively eliminates revisitation redundancy and reduces exploration time against state-of-the-art baselines. (Click the image to view the video)
 
-
+[![video](doc/illustration.png)](https://www.youtube.com/watch?v=-VXHNZr-xjU)
 
 ## 🛠️ Installation
 
