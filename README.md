@@ -25,9 +25,9 @@
 
 #### Clone our repository and build
 ```bash
-mkdir -p ~/LAPIC/src
-cd LAPIC/src
-git clone https://github.com/ZikangYuan/lapic.git
+mkdir -p ~/EPICON/src
+cd EPICON/src
+git clone https://github.com/ZikangYuan/epicon.git
 cd..
 catkin make
 ```
