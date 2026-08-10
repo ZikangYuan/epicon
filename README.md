@@ -10,9 +10,24 @@
 </div>
 <div align="center">
   <strong>
-        Anonymous Authors
+        Zikang Yuan,
+        Yuan Ren,
+        Yixue Wang, 
+        Leyi Zhao, 
+        Shangzhe Sun, 
+        Chi Chen, 
+        Lijun Zhu, 
+        Xin Yang<sup>†</sup> and
+        Kwang-Ting (Tim) Cheng
   </strong>
+  <p>
+    <sup>†</sup>Corresponding Author
+  </p>
 </div>
+
+## 💡 News
+* **[2026.08.10]** The source code of **EPICON** is released !
+* **[2026.07.31]** **EPICON** is accepted by RAL 2026 🚀 !
 
 ## 🛠️ Installation
 
