@@ -48,7 +48,7 @@ mkdir -p ~/EPICON/src
 cd EPICON/src
 git clone https://github.com/ZikangYuan/epicon.git
 cd..
-catkin make
+catkin_make
 ```
 #### Download dataset 
 Download simulation maps from *Google cloud address* provided by [EPIC](https://github.com/Robotics-STAR-Lab/EPIC) and [EDEN](https://github.com/NKU-MobFly-Robotics/EDEN), create the folder `MARSIM/map_generator/resource` if it doesn't exist, and move the downloaded maps to this folder.
