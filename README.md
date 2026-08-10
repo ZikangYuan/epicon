@@ -28,7 +28,7 @@
 
 ## 💡 News
 * **[2026.08.10]** The source code of **EPICON** is released !
-* **[2026.07.31]** **EPICON** is accepted by RA-L 2026 🚀 !
+* **[2026.07.30]** **EPICON** is accepted by RA-L 2026 🚀 !
 
 ## 🙏 Acknowledgments
 
