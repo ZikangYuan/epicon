@@ -32,7 +32,7 @@
 
 ## 🙏 Acknowledgments
 
-We sincerely thank Prof. [**Boyu Zhou**](https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en) and his team [**STAR**](https://robotics-star.com/) for open-sourcing the excellent works [**EPIC**](https://github.com/Robotics-STAR-Lab/EPIC) and [**FALCON**](https://github.com/HKUST-Aerial-Robotics/FALCON), which provided crucial insights for this work and significantly reduced the engineering implementation effort.
+We sincerely thank Prof. [**Boyu Zhou**](https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en) and his team [**STAR**](https://robotics-star.com/) for open-sourcing the excellent works [EPIC](https://github.com/Robotics-STAR-Lab/EPIC) and [FALCON](https://github.com/HKUST-Aerial-Robotics/FALCON), which provided crucial insights for this work and significantly reduced the engineering implementation effort.
 
 ## 📜 Introduction
 
