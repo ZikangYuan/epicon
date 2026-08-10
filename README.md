@@ -27,8 +27,8 @@
 </div>
 
 ## 💡 News
-* **[2026.08.10]** The source code of **EPICON** is released !
-* **[2026.07.30]** **EPICON** is accepted by RA-L 2026 🚀 !
+* **[2026.08.10]** The source code of this work is released !
+* **[2026.07.30]** This work is accepted by RA-L 2026 🚀 !
 
 ## 🙏 Acknowledgments
 
@@ -36,7 +36,7 @@ We sincerely thank Prof. [**Boyu Zhou**](https://scholar.google.com.hk/citations
 
 ## 📜 Introduction
 
-**EPICON** is a LiDAR-based aerial exploration package for avoiding revisitations on point cloud maps. Simulation and real-world experiments validate that our framework effectively eliminates revisitation redundancy and reduces exploration time against state-of-the-art baselines. (Click the image to view the video)
+This work is a LiDAR-based aerial exploration package for avoiding revisitations on point cloud maps. Simulation and real-world experiments validate that our framework effectively eliminates revisitation redundancy and reduces exploration time against state-of-the-art baselines. (Click the image to view the video)
 
 [![video](doc/illustration.png)](https://www.youtube.com/watch?v=-VXHNZr-xjU)
 
