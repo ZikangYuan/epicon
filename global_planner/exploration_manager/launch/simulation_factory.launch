@@ -33,7 +33,7 @@
         <arg name="sensing_horizon" value="$(arg sensing_horizon_mid360)" />
     </include>
 
-    <include file="$(find epic_planner)/launch/rviz.launch">
+    <include file="$(find epicon_planner)/launch/rviz.launch">
     </include>
 
 </launch>

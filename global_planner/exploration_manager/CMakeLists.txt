@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(epic_planner)
+project(epicon_planner)
 
 set(CMAKE_BUILD_TYPE "Release")
 # set(CMAKE_BUILD_TYPE "Debug")
@@ -37,7 +37,7 @@ find_package(catkin REQUIRED COMPONENTS
 
 catkin_package(
   INCLUDE_DIRS include
-  LIBRARIES epic_planner
+  LIBRARIES epicon_planner
   CATKIN_DEPENDS pointcloud_topo active_perception path_searching traj_utils lkh_tsp_solver plan_manage frontier_manager
 
   # DEPENDS system_lib
@@ -64,10 +64,10 @@ target_link_libraries(exploration_node
   ${catkin_LIBRARIES}
   OpenMP::OpenMP_CXX
   # remesh_isotropic_planar
-  epic_planner
+  epicon_planner
 )
 
-add_library(epic_planner
+add_library(epicon_planner
   src/fast_exploration_manager.cpp
   src/sop_solver/digraph.cpp
   src/sop_solver/edge.cpp
@@ -77,6 +77,6 @@ add_library(epic_planner
   src/sop_solver/solver_state.cpp
   src/sop_solver/sop_solver_interface.cpp
 )
-target_link_libraries(epic_planner
+target_link_libraries(epicon_planner
   ${catkin_LIBRARIES}
 )

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>epic_planner</name>
+  <name>epicon_planner</name>
   <version>0.0.0</version>
   <description>The fast_planner package</description>
 

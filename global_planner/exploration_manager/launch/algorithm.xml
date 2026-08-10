@@ -2,9 +2,9 @@
 	<!-- main node -->
 	<arg name="config_file" default="cave2.yaml"/>
 	
-	<node pkg="epic_planner" name="exploration_node" type="exploration_node"
+	<node pkg="epicon_planner" name="exploration_node" type="exploration_node"
 		output="screen">
-		<rosparam file="$(find epic_planner)/config/$(arg config_file)" command="load" />
+		<rosparam file="$(find epicon_planner)/config/$(arg config_file)" command="load" />
 		<!-- Fsm -->
 		<param name="fsm/thresh_replan" value="0.5" type="double" />
 		<param name="fsm/emergency_replan_control_error" value="1.5" type="double" />

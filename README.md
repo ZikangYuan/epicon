@@ -60,7 +60,7 @@ mv /path/to/downloaded/maps/*.pcd MARSIM/map_generator/resource/
 
 #### Run program 
 ```bash
-source /devel/setup.bash && roslaunch epic_planner garage.launch
+source /devel/setup.bash && roslaunch epicon_planner garage.launch
 ```
 You can replace `garage` with other maps. Three test scenarios are evaluated in our paper: `cave`, `garage` and `city`.
 

@@ -1,6 +1,6 @@
 #include <boost/lexical_cast.hpp>
-#include <epic_planner/expl_data.h>
-#include <epic_planner/fast_exploration_manager.h>
+#include <epicon_planner/expl_data.h>
+#include <epicon_planner/fast_exploration_manager.h>
 #include <fstream>
 #include <iostream>
 #include <lkh_tsp_solver/lkh_interface.h>

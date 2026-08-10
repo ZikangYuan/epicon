@@ -1,6 +1,6 @@
-#include <epic_planner/expl_data.h>
-#include <epic_planner/fast_exploration_fsm.h>
-#include <epic_planner/fast_exploration_manager.h>
+#include <epicon_planner/expl_data.h>
+#include <epicon_planner/fast_exploration_fsm.h>
+#include <epicon_planner/fast_exploration_manager.h>
 #include <plan_manage/planner_manager.h>
 #include <std_msgs/Float32.h>
 #include <std_msgs/Int32.h>

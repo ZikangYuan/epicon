@@ -58,7 +58,7 @@ You can change the parameter in launch files to change the map and LiDAR to be s
 You should first change the branch to fuel_ubuntu20 branch. If you are using ubuntu 20.04, you should first download Nlopt and make install it in your environment. Then you can run the simulation by the command below:
 ```
 source devel/setup.bash
-roslaunch epic_planner exploration.launch
+roslaunch epicon_planner exploration.launch
 ```
 Then click on 2Dgoal tool on the Rviz, randomly click on the map, and FUEL would automously run.
 

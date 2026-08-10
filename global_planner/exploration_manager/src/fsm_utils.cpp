@@ -1,5 +1,5 @@
-#include <epic_planner/expl_data.h>
-#include <epic_planner/fast_exploration_fsm.h>
+#include <epicon_planner/expl_data.h>
+#include <epicon_planner/fast_exploration_fsm.h>
 
 void FastExplorationFSM::pubState() {
 

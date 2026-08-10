@@ -2,7 +2,7 @@
 
 #include <Eigen/Eigen>
 #include <algorithm>
-#include <epic_planner/fast_exploration_manager.h>
+#include <epicon_planner/fast_exploration_manager.h>
 #include <iostream>
 #include <memory>
 #include <nav_msgs/Odometry.h>
