@@ -29,6 +29,10 @@
 * **[2026.08.10]** The source code of **EPICON** is released !
 * **[2026.07.31]** **EPICON** is accepted by RAL 2026 🚀 !
 
+## 🙏 Acknowledgments
+
+We sincerely thank Prof. [**Boyu Zhou**](https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en) and his team [**STAR**](https://robotics-star.com/) for open-sourcing the excellent works [**EPIC**](https://github.com/Robotics-STAR-Lab/EPIC) and [**FALCON**](https://github.com/HKUST-Aerial-Robotics/FALCON), which provided crucial insights for this work and significantly reduced the engineering implementation effort.
+
 ## 🛠️ Installation
 
 ### Test Environment
@@ -63,7 +67,7 @@ You can replace `garage` with other maps. Three test scenarios are evaluated in 
 Our simulation environment is developed based on the GPU version of MARSIM. So if you don't have a GPU, you may need to make some necessary modifications to the simulator.
 
 
-## 🤓 Acknowledgments
+## 🤓 Credits
 
 We would like to express our gratitude to the following projects, which have provided significant support and inspiration for our work:
 - [EPIC](https://github.com/Robotics-STAR-Lab/EPIC): An efficient framework for fast UAV exploration from which is our baseline.
