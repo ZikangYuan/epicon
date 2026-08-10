@@ -23,7 +23,7 @@
   <p>
     <sup>†</sup>Corresponding Author
   </p>
-  <a href='https://www.bilibili.com/video/BV1nrx5eaESY/?spm_id_from=333.1387.homepage.video_card.click&vd_source=07945b0b56417e213633c9332f4f4716'><img alt="Video" src="https://www.youtube.com/watch?v=-VXHNZr-xjU&t=2s"/></a>
+  <a href='https://www.youtube.com/watch?v=-VXHNZr-xjU&t=2s'><img alt="Video" src="https://img.shields.io/badge/YouTube-Video-red"/></a>
 </div>
 
 ## 💡 News
