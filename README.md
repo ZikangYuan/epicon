@@ -18,7 +18,7 @@
         Chi Chen, 
         Lijun Zhu, 
         Xin Yang<sup>†</sup> and
-        Kwang-Ting (Tim) Cheng
+        Tim Cheng
   </strong>
   <p>
     <sup>†</sup>Corresponding Author
