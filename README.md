@@ -40,6 +40,18 @@ This work is a LiDAR-based aerial exploration package for avoiding revisitations
 
 [![video](doc/illustration.png)](https://www.youtube.com/watch?v=-VXHNZr-xjU)
 
+Please cite our paper if you use this project in your research:
+
+```
+@article{yuan2026aerial,
+  title={Aerial Exploration on Point Cloud Maps via Coverage Path Guidance},
+  author={Yuan, Zikang and Ren, Yuan and Wang, Yixue and Zhao, Leyi and Sun, Shangzhe and Chen, Chi and Zhu, Lijun and Yang, Xin and Cheng, Kwang-Ting},
+  journal={IEEE Robotics and Automation Letters},
+  year={2026},
+  publisher={IEEE}
+}
+```
+
 ## 🛠️ Installation
 
 ### Test Environment
