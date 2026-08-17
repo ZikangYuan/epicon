@@ -23,6 +23,7 @@
   <p>
     <sup>†</sup>Corresponding Author
   </p>
+  <a href="https://ieeexplore.ieee.org/document/11654530"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
   <a href='https://www.youtube.com/watch?v=-VXHNZr-xjU'><img alt="Video" src="https://img.shields.io/badge/YouTube-Video-red"/></a>
 </div>
 
