@@ -49,7 +49,9 @@ Please cite our paper if you use this project in your research:
   author={Yuan, Zikang and Ren, Yuan and Wang, Yixue and Zhao, Leyi and Sun, Shangzhe and Chen, Chi and Zhu, Lijun and Yang, Xin and Cheng, Kwang-Ting},
   journal={IEEE Robotics and Automation Letters},
   year={2026},
-  publisher={IEEE}
+  volume={11},
+  number={10},
+  pages={11299-11306}
 }
 ```
 
