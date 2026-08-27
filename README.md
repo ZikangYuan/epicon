@@ -28,6 +28,8 @@
 </div>
 
 ## 💡 News
+* **[2026.08.23]** This work is officially published by RA-L ! 
+* **[2026.08.15]** This work can be early accessed in IEEE Xplore ! 
 * **[2026.08.10]** The source code of this work is released !
 * **[2026.07.30]** This work is accepted by RA-L 2026 🚀 !
 
