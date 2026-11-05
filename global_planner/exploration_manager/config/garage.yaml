@@ -7,7 +7,7 @@ global_planning/w_firstnode: 0.2
 #viz
 view_graph: false
 FrontierManager/view_cluster: false
-FrontierManager/view_frt: false
+FrontierManager/view_frt: true
 # graph
 bubble_topo/min_x: 0.6
 bubble_topo/min_y: 0.6
